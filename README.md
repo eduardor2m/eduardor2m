@@ -1,6 +1,5 @@
 ### Oii! Eu sou o Eduardo 👋
-- 🔭 Trabalhando com front-end
-- 🌱 Estudando NextJs
+- 🔭 Programador FrontEnd
  <div>
   <a href="https://github.com/eduardor2m">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardor2m&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
