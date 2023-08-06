@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Eduardo 👋
-- 🔭 Programador FullStack
+- 🔭 Desenvolvedor Back-End
  <div>
   <a href="https://github.com/eduardor2m">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardor2m&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
